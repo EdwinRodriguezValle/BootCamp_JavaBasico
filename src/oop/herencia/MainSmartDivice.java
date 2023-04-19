@@ -1,6 +1,6 @@
-import Herencia.SmartDivice;
-import Herencia.SmartPhone;
-import Herencia.SmartWatch;
+import oop.herencia.Herencia.SmartDivice;
+import oop.herencia.Herencia.SmartPhone;
+import oop.herencia.Herencia.SmartWatch;
 
 public class MainSmartDivice {
     public static void main(String[] args) {
